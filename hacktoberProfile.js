@@ -14,5 +14,10 @@ var profiles = [
     name: "Shebin KP",
     place: "Kerala, India",
     github: "shebin007",
+  },
+  {
+    name : "Fathima Liyana",
+    place : "Kerala, India",
+    github : "fathimaliyana"
   }
 ];
